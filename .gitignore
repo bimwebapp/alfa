@@ -1,0 +1,11 @@
+.sass-cache
+app/.css
+.tmp
+
+# bower & npm packages
+app/bower_components
+node_modules
+npm-debug.log
+
+# builded QM
+dist/*
