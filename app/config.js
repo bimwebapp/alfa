@@ -5,9 +5,9 @@ define(function() {
 
     /* Production environment */
     qbAccount: {
-      appId: 13318,
-      authKey: 'WzrAY7vrGmbgFfP',
-      authSecret: 'xS2uerEveGHmEun'
+      appId: 31423,
+      authKey: 'dvyjByHmA2kBbZB',
+      authSecret: 'E7snSJew5TrRneW'
     },
 
     // /* Test local environment */
